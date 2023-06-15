@@ -7,7 +7,7 @@
 - ⚡ Trabalho na empresa Fundimisa como HelpDesk de programação em Santo Ângelo, RS.  ...
 
 <div align="center">
-  <a href="https://github.com/IgorGabrielNunes">
+        <!-- a href="https://github.com/IgorGabrielNunes"> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorGabrielNunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!-- <img align="top-right"src="https://streak-stats.demolab.com?user=IgorGabrielNunes&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats"/> -->
 </div>
